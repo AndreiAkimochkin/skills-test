@@ -1,0 +1,40 @@
+.step{
+    border: 2px solid teal;
+    width: 800px;
+    align-content: center;
+    margin-left: 100px;
+}
+
+.title {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+}
+
+.form {
+    padding-left: 100px;
+    width: 600px;
+}
+
+.input {
+    align-items: flex-end;
+}
+
+.label {
+    padding-right: 50px;
+}
+
+.btn_submit {
+    display:flex;
+    justify-content: flex-end;
+    padding-top: 25px;
+    padding-bottom: 25px;
+}
+
+.btn_field {
+    display:flex;
+    justify-content: space-between;
+    padding-top: 25px;
+    padding-bottom: 25px;
+}
